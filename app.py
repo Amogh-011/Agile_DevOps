@@ -536,4 +536,5 @@ elif app_mode == "Make Prediction":
 # --- Footer (Optional) ---
 st.sidebar.markdown("---")
 st.sidebar.info("Fraud Detection System using Streamlit.")
+print ("Hello World")
 # --- END OF FILE app.py ---
